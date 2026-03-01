@@ -1,47 +1,105 @@
 # Privacy Policy for Biodata Sorter
 
-**Effective date:** [Insert Date]
+**Effective date:** 01 March 2026
 
-Biodata Sorter (“the App”) is developed to help users organize biodata images and related profile details on their own device.
+Biodata Sorter (“the App”) is designed to help users import, organize, and review biodata images stored on their own device.
+
+---
 
 ## 1. Information We Process
-The App may process the following data that you provide:
-- Biodata images selected/imported by you
-- Text extracted from those images (for example name and year/age)
-- Profile status labels and notes you set inside the app
 
-## 2. How Data Is Used
-Your data is used only to provide app features, such as:
-- Importing and organizing biodata images
-- OCR-based extraction of profile details
-- Filtering, sorting, and reviewing profiles
+The App may process the following information when you use it:
 
-## 3. Data Storage
-All biodata images and extracted details are stored locally on your device/app storage.
+- Biodata images stored on your device that you choose to import  
+- Text extracted from those images using on-device OCR (such as name, age, or year)  
+- Profile labels, notes, and status information that you manually add inside the App  
 
-## 4. Data Sharing and Selling
-- We do **not** sell your personal data.
-- We do **not** share your biodata images or extracted profile data for advertising or marketing.
+The App does not require account creation.
 
-## 5. Data Transmission
-The App is designed for on-device use.  
-We do not intentionally upload your biodata images or extracted profile details to our own servers.
+---
 
-## 6. Permissions
-The App accesses files/photos only to allow you to import and process biodata images that you choose.
+## 2. How Information Is Used
+
+Your information is used only to provide core app functionality, including:
+
+- Importing biodata images from your device  
+- Detecting and organizing biodata files  
+- Extracting profile details using on-device text recognition  
+- Allowing filtering, sorting, and reviewing of profiles  
+
+All processing happens locally on your device.
+
+---
+
+## 3. Media Access Permission
+
+The App may request access to device photos/media in order to:
+
+- Allow you to import biodata images from your device  
+- Scan relevant images when you initiate an import action  
+
+Media access is used strictly for core functionality of organizing biodata images.
+
+The App does not access media in the background without user action.
+
+---
+
+## 4. Data Storage
+
+All biodata images and extracted details are stored locally within the App’s storage on your device.
+
+We do not store your data on external servers.
+
+---
+
+## 5. Data Sharing and Selling
+
+- We do **not** sell your personal data.  
+- We do **not** share biodata images or extracted profile details with third parties.  
+- We do **not** use your data for advertising or marketing.
+
+---
+
+## 6. Data Transmission
+
+The App does not intentionally upload biodata images or extracted profile details to any remote server.
+
+If internet access is present on your device, it is not used to transmit your biodata content.
+
+---
 
 ## 7. Data Retention and Deletion
-Your data remains on your device until you remove it, clear app data, or uninstall the app.
+
+Your data remains on your device until you:
+
+- Delete it from within the App  
+- Clear App storage  
+- Uninstall the App  
+
+Uninstalling the App removes all locally stored biodata information.
+
+---
 
 ## 8. Security
-We use reasonable technical measures to protect local data within app-controlled storage.
+
+We implement reasonable technical safeguards to protect data stored within the App’s private storage area.
+
+---
 
 ## 9. Children’s Privacy
-The App is not directed to children.
+
+The App is not directed toward children under 13 years of age.
+
+---
 
 ## 10. Changes to This Policy
-We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.
+
+We may update this Privacy Policy from time to time. Any updates will be reflected by revising the Effective Date above.
+
+---
 
 ## 11. Contact
-For questions or requests related to privacy, contact:  
+
+For privacy-related questions or requests:
+
 **Email:** deepworkslab@gmail.com
